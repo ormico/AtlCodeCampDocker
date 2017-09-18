@@ -2,8 +2,9 @@
 Straight Forward Docker on Windows
 
 ## Cheatsheet
-|Version|docker version|
+|Task|docker command|
 |:----- |:----------- |
+|Display Version|`docker version`|
 |List installed images|`docker images`|
 |Remove an image|`docker rmi <image name>`|
 |Remove a container|`docker rm <container>`|
