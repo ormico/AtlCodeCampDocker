@@ -15,6 +15,7 @@ Straight Forward Docker on Windows
 |Connect to a container's console|`docker attach <container>`|
 |Get a Windows container's IP address|`docker inspect --format '{{ .NetworkSettings.Networks.nat.IPAddress }}' <container>`|
 |Build an image|`docker build <folder> -t <image name>`<br>Example:<br>`docker build . -t ormico/helloworld`|
+
 Image names are often prefixed with a namespace. In the example above "ormico" is used as the namespace prefix and "/" is used as a separator.
 
 Images also support tags. Multiple images can share the same name if they are differentiated by a tag.
