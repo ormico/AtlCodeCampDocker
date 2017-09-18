@@ -1,0 +1,12 @@
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMQ.Example.StartUp\bin\Debug\RabbitMQ.Example.StartUp.exe.config
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMQ.Example.StartUp\bin\Debug\RabbitMQ.Example.StartUp.exe
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMQ.Example.StartUp\bin\Debug\RabbitMQ.Example.StartUp.pdb
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMQ.Example.StartUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMQ.Example.StartUp\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMQ.Example.StartUp\bin\Debug\RabbitMqService.dll
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMQ.Example.StartUp\bin\Debug\RabbitMqService.pdb
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMQ.Example.StartUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMQ.Example.StartUp\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMQ.Example.StartUp\obj\Debug\RabbitMQ.Example.StartUp.csprojResolveAssemblyReference.cache
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMQ.Example.StartUp\obj\Debug\RabbitMQ.Example.StartUp.exe
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMQ.Example.StartUp\obj\Debug\RabbitMQ.Example.StartUp.pdb

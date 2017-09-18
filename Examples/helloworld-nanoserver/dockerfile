@@ -1,0 +1,3 @@
+FROM microsoft/nanoserver
+COPY helloworld.txt .
+CMD ["powershell", "cat", "helloworld.txt"]

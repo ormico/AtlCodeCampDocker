@@ -1,0 +1,9 @@
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMqService\bin\Debug\RabbitMqService.dll
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMqService\bin\Debug\RabbitMqService.pdb
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMqService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMqService\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMqService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMqService\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMqService\obj\Debug\RabbitMqService.csprojResolveAssemblyReference.cache
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMqService\obj\Debug\RabbitMqService.dll
+C:\Users\Zack\OneDrive\docker\rabbitmq\RabbitMQ.Example\RabbitMqService\obj\Debug\RabbitMqService.pdb

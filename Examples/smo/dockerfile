@@ -1,0 +1,7 @@
+# escape=`
+FROM microsoft/windowsservercore
+COPY SQLSysClrTypes.msi msi\
+COPY SharedManagementObjects.msi msi\
+RUN msiexec.exe /i "C:\MSI\SQLSysClrTypes.msi" /qn /l* SQLSysClrTypes-log.txt
+RUN msiexec.exe /i "C:\MSI\SharedManagementObjects.msi" /qn /l* SharedManagementObjects-log.txt
+SHELL ["powershell", "-Command", "$ErrorActionPreference = 'Stop';"]
