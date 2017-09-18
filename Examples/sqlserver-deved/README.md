@@ -1,4 +1,4 @@
-#SQL Server Developer Edition Example
+# SQL Server Developer Edition Example
 
 1. Make sure Docker is in Windows mode. 
 1. Copy the mdf and ldf files to c:\temp
